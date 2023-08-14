@@ -1,5 +1,5 @@
 # https-github.com-Balikuddembe-Java_FullStackDeveloperPhase_3_Sporty_Shoe_Project
-DESCRIPTION
+# DESCRIPTION
 
 Project objective:
 
