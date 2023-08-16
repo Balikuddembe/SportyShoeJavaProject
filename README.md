@@ -128,7 +128,7 @@ To run tests, run the following command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **Design the UI for the backend**
-- [ ] **Host the app online**
+- [ ] **Host the app online (Deployment)**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
